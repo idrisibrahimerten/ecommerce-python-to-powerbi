@@ -39,15 +39,6 @@ pip install pandas requests
 python main.py [PRODUCT_ID_1] [PRODUCT_ID_2] ...
 ```
 
-Eğer ID verilmezse / If no ID is passed, the script defaults to 10 demo products:
-
-```python
-[
-    "6557751127", "1496314895", "5321127916", "6570902110", "16513673629",
-    "2438119712", "631193073", "2995864229", "11381374703", "1415071964"
-]
-```
-
 ---
 
 ## 📂 Çıktılar / Output Files
