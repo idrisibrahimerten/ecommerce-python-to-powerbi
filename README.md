@@ -1,4 +1,4 @@
-# 🛒 Product Data Extractor
+# 🛒 E-Ticaret Rekabet Analizi Dashboard / E-Commerce Competitive Analysis Dashboard
 
 Bu proje / This project pulls **product data**, **reviews**, **aspects**, and **sponsored links** from a local API `http://test/api/product/` and normalizes it to CSV format.  
 ---
