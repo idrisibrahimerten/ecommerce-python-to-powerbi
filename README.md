@@ -1,6 +1,6 @@
 # 🛒 Product Data Extractor
 
-Bu proje / This project pulls **product data**, **reviews**, **aspects**, and **sponsored links** from a local API `http://127.0.0.1:3000/api/product/{id}` and normalizes it to CSV format.  
+Bu proje / This project pulls **product data**, **reviews**, **aspects**, and **sponsored links** from a local API `http://test/api/product/` and normalizes it to CSV format.  
 ---
 
 ## 🚀 Özellikler / Features
